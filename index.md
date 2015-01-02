@@ -1,5 +1,9 @@
-![Bryan Bennnett](images/me.jpg)
-Photo courtesy of [Sebastian Orr Photography](http://sebastianorrphoto.com/)
+<figure>
+    <img src="images/me.jpg" alt="Bryan Bennett" />
+    <figcaption>
+        Photo courtesy of <a href="http://sebastianorrphoto.com/">Sebastian Orr Photography</a>
+    </figcaption>
+</figure>
 
 I am a professional software developer working primarily to build web systems
 alongside expressive APIs. I am currently employed with the Emerging Threats and
