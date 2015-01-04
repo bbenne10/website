@@ -71,6 +71,15 @@ header a {
 
 .side_bar ul li a:hover { color: #111; text-decoration: none; }
 
+/* Utility classes */
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
 /* Main Copy */
 .main {
 	max-width: 70em;
