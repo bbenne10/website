@@ -1,12 +1,17 @@
 # aurora
 
-A very simple AUR helper written in python 3.
+###A very simple AUR helper written in python 3.
 
-##USAGE
+####Download
+
+Aurora can be grabbed from it's [Github page](http://github.com/bbenne10/aurora) or
+downloaded directly [here](https://raw.githubusercontent.com/bbenne10/aurora/master/aurora).
+
+####Usage
 
     aurora [-h] [-n] [-a] [-c] [-d DOWNLOAD_DIR] [-S SEARCH_STRING] [-U] [-G GRAB_STRING] [-e]
 
-### optional arguments:
+##### optional arguments:
 
 `-h, --help`
 : show a help message and exit
@@ -35,7 +40,7 @@ A very simple AUR helper written in python 3.
 `-e, --edit`
 : Enables auto-editing of the the PKGBUILD based on the user's `$EDITOR` variable
 
-## TODO
+#### Todo
 
 * Rework arg parsing to not suck.
 * Maybe start wrapping simple pacman commands?
