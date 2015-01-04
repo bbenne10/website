@@ -90,12 +90,10 @@ header a {
 }
 
 .main figure {
-    display: block;
-    float: right;
+    display: inline-block;
     margin: 1em;
     padding: .5em;
     background-color: #DDD;
-
 }
 
 .main a { color: #336699; text-decoration: none; }
