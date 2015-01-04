@@ -1,4 +1,4 @@
-<figure>
+<figure class="right">
     <img src="images/me.jpg" alt="Bryan Bennett" />
     <figcaption>
         Photo courtesy of <a href="http://sebastianorrphoto.com/">Sebastian Orr Photography</a>
