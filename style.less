@@ -73,23 +73,25 @@ p {
 
 pre, code {
     font-family: 'Source Code Pro', monospace;
+    font-size: .9em;
+    quotes: '"', '"', "'", "'";
+}
+
+code {
+    display: inline-block;
+    line-height: 1.2em;
     border-radius: .3em;
     background-color: #DFDFDF;
     border: 1px solid #CBCBCB;
     padding: 1px 4px;
-    quotes: '"', '"', "'", "'";
+    margin-bottom: .2em;
 }
 
 pre {
-    background-color: none;
+    background-color: inherit;
     border: 0;
     margin-left: 2em;
-    & > code {
-        border: 0;
-        padding: 0;
-    }
 }
-
 
 /* Utility classes */
 .right {
