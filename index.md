@@ -6,8 +6,9 @@
 </figure>
 
 I am a professional software developer working primarily to build web systems
-alongside expressive APIs. I am currently employed with the Emerging Threats and
-Countermeasures laboratory at the Georgia Institute of Technology.
+alongside expressive APIs living in the Atlanta area. I am currently employed
+with the Emerging Threats and Countermeasures laboratory at the Georgia
+Institute of Technology.
 
 ## Interests
 
