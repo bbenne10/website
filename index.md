@@ -6,7 +6,7 @@
 </figure>
 
 I am a professional software developer working primarily to build web systems
-alongside expressive APIs I am currently living in the Atlanta area and am
+alongside expressive APIs. I am currently living in the Atlanta area and am
 employed with the Emerging Threats and Countermeasures laboratory at the Georgia
 Institute of Technology.
 
