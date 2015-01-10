@@ -11,8 +11,8 @@ Countermeasures laboratory at the Georgia Institute of Technology.
 
 ## Interests
 
-Professionally, I am interested in designing user interfaces for professional
-users and discovering and/or developing simple and understandable solutions to
+At work, I am interested in designing user interfaces for expert users, as
+well as discovering and developing simple and understandable solutions to
 complex problems.
 
 Personally, I am quite interested in politics, gaming (video, card and board),
