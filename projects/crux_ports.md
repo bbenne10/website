@@ -20,12 +20,12 @@ issue on Github.
 
 ####Available ports
 
-    * acpi
-    * gbdfed
-    * gvim
-    * slmenu
-    * The Silver Searcher (or Ag)
-    * vim
-    * vimb
-    * weechat
-    * xorg-xephyr
+* acpi
+* gbdfed
+* gvim
+* slmenu
+* The Silver Searcher (or Ag)
+* vim
+* vimb
+* weechat
+* xorg-xephyr
