@@ -25,9 +25,9 @@ beer and good bourbon.
 
 I have worked on a number of (mostly half-baked) ideas:
 
-* [Window mangers](projects/piswm.html)
-* [Arch User Repository helpers](projects/aurora.html)
-* [Internet radio players fronted by dmenu](projects/ztream.html)
+* [Window mangers](projects/piswm)
+* [Arch User Repository helpers](projects/aurora)
+* [Internet radio players fronted by dmenu](projects/ztream)
 
 You can find more information about almost any of these ideas on
-[my Github](http://github.com/bbenne10) or on the [projects page](projects/index.html)
+[my Github](http://github.com/bbenne10) or on the [projects page](projects/)
