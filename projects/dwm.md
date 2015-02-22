@@ -3,7 +3,7 @@
 [dwm](http://dwm.suckless.org/) is a fantastic window manager, but it is missing some
 functionality I like. This is my patched version of dwm which contains a non-trivial
 amount of patching. This version of dwm is based on a relatively old git pull,
-so all upstream changes are not rolled in. Patched I include:
+so all upstream changes are not rolled in. Patches I include:
 
 * draw status on all monitors
 * attachaside per window rule
