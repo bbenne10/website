@@ -2,7 +2,7 @@
 
 ### Like prtsearch, but for Crux
 Prtsearch is a simple port search tool for Crux linux users, similar in spirit
-to my Arch AUR helper, [prtsearch](https://github.com/bbenne10/prtsearch) (though
+to my Arch AUR helper, [Aurora](https://github.com/bbenne10/aurora) (though
 currently has less features). prtsearch makes use of
 [Kristian Lehmann](http://github.com/zero-io)'s wonderful api to search for and
 download ports listed on the [Crux PortDB](http://crux.nu/portdb) page.
