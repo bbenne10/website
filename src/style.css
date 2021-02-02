@@ -1,0 +1,39 @@
+@font-face {
+  font-family: system;
+  font-style: normal;
+  font-weight: 300;
+  src: local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+}
+
+body {
+  max-width: 50rem;
+  background-color: #2E3440;
+  color: #ECEFF4;
+  margin: 2rem auto;
+  font-family: "system";
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #8FBCBB;
+  border-bottom: 2px solid #1b1e24;
+}
+
+
+a {
+  color: #88C0D0;
+  text-decoration: none;
+  border-bottom: 1px solid #88C0D0;
+}
+
+a::before {
+  content: '=>';
+  margin-right: 5px;
+  color: #ECEFF4;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #848EAD;
+  text-decoration: none;
+  border-bottom: 1px solid #848EAD;
+}

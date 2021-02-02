@@ -1,0 +1,20 @@
+# A Foray into Space 🚀
+## Who am I?
+Bryan Bennett, as you know. You made it to this domain after all.
+My pronouns are he/him/his.
+I'm a software developer. I work for GTRI doing a lot of different things. Mostly, I write web services and pretend to be a "software architect".
+Sometimes, I get to play around with cooler things, like formal verification, software-assurance, functional languages, etc.
+I live in Atlanta with a small family. I try to get outdoors by myself when I can.
+I'm a member of Phi Mu Alpha Sinfonia, a social music fraternity. In non-pandemic times, I happen to be the President of the Atlanta-area Alumni Association.
+Basically, I'm just a dad who likes loud music, has strong opinions about computers, and enjoys sitting in the woods.
+=> images/me.jpg A look at me.
+## What is this?
+That remains to be seen. I'll eventually add some overlays about some of my projects here or something. 
+For now, you can find me in the places linked below.
+## Where else can we talk?
+In addition to those below, you can also email me at Bryan (dot) Bennett (at) protonmail (dot) com.
+=> gemini://gemini.bryan-bennett.com (gemini) This page on the smol web
+=> https://bryan-bennett.com (https) This page on the big web
+=> https://git.bryan-bennett.com/bryan (https) My personal git host
+=> https://tilde.zone/@BryanBennett (https) My Mastodon presence
+=> https://facebook.com/bryan.a.bennett (https) My facebook (if you are so inclined)
