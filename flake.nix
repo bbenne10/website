@@ -13,8 +13,8 @@
       in
       rec {
         packages = {
-          site = pkgs.stdenv.mkDerivation {
-            name = "site";
+          website = pkgs.stdenv.mkDerivation {
+            name = "website";
             version = "1.0.0";
             src = ./.;
 
@@ -27,12 +27,16 @@
             '';
           };
         };
-        defaultPackage = packages.site;
+        defaultPackage = packages.website;
 
         devShell = pkgs.mkShell {
           buildInputs = with pkgs; [
             swishPkg
           ];
         };
+
+        overlays = (final: prev: {
+          website = packages.website;
+        });
       });
 }
