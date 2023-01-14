@@ -2,7 +2,7 @@
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs";
     flake-utils.url = "github:numtide/flake-utils";
-    swish.url = "github:bbenne10/swish/flake";
+    swish.url = "github:bbenne10/swish";
   };
 
   outputs = { self, nixpkgs, flake-utils, swish }:
