@@ -3,8 +3,8 @@
 In typical ADHD nerd fashion, I'm into a lot of varied things.
 I'd love to chat your ear off about them if you've got the patience.
 
-## 📚 Fantasy and Science Fiction Novels
-### 🧙 Fantasy
+## &#128218; Fantasy and Science Fiction Novels
+### &#129497; Fantasy
 
 Unsurprisingly, I'm a big Brandon Sanderson fan.
 Almost everyone into fantasy novels these days is too - 
@@ -25,7 +25,7 @@ I simply haven't read enough of
 Neil Gaiman, Robert Jordan, Patrick Rothfuss etc. 
 to have too much of an opinion.
 
-### 🤖 Science Fiction
+### &#128126; Science Fiction
 
 I like a fair amount of science fiction too,
 though I am significantly pickier with it than fantasy.
@@ -42,7 +42,7 @@ Some authors I have enjoyed:
 * Ray Bradbury
 
 
-## 🎵 Music
+## &#127926; Music
 
 In short: I like just about everything.
 I mean that.
@@ -76,7 +76,7 @@ Artists I particularly I love (ordered as they come to me while writing):
 [Royal Coda]: https://royalcoda.bandcamp.com
 
 
-## ⛺ Hiking & Camping
+## &#9978; Hiking & Camping
  
 I do not do nearly enough of this these days, 
 but I really enjoy overnighting. 
