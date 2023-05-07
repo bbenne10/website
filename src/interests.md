@@ -89,14 +89,57 @@ Happy to chat about this,
 but I am not a gear nerd so discussions get wishy-washy rather quickly.
 
 
-## 💻 Programming Languages
+## &#128430; Keyboards
 
- 🚧 This section under construction 🚧
+Like a lot of people now, I'm quite into mechanical keyboards.
+I'm quite into the idea of "ortholinear" keyboards, as well as small keyboards.
+
+I own quite a few:
+
+* Razer BlackWidow (with Cherry MX Blue switches)
+* CM Storm QuickFire Rapid (Cherry MX Blues)
+* Keeb.io Nyquist (Outemu Browns)
+* OLKB Preonic v1 (Zealio v1 65G)
+* Inland MK47 (with Huano Reds)
+
+Currently in use are the Nyquist and MK47. 
+The Nyquist is a great little split keyboard that I'm presently modifying a bit to suit me better,
+and the MK47 is a brilliant OLKB Planck clone with an absolutely horrific default layout.
+
+## &#9881; Programming
+
+Presently, my languages of choice for general applications are Rust and OCaml. 
+Both have ways to bundle for the web and offer nearly unparalled type systems.
+
+In addition, I am fluent in the following for application development:
+
+* Python
+* JavaScript
+* Java & Scala
+* PHP (but please don't make me)
+
+And a lot of smaller things too, like bash/dash, 
+but those hardly count in some ways.
+
+I'm a huge fan of Nix as a platform for actually doing the programming.
+It allows hermetic and reproducible builds for projects and systems
+expressed in a cool little lanuage which could be described as "JSON + Lisp", maybe?
+
+There's a lot of problems with the Nix ecosystem at present;
+The biggest one being documentation.
+There is both too much and too little documentation available.
+Too much of it focuses on the wrong things 
+and there's simply too little at the end that means something to newcomers.
+There are some good resources though:
+
+* [Zero to Nix](https://zero-to-nix.com): For general introduction
+* [nix.dev](https://nix.dev): For much the same
+* [RyanTM's NixPkgs API documentation](https://ryantm.github.io/nixpkgs/): For NixPkg built-in function reference
 
 
-## 🎲 Gaming
+## &#127922; Gaming
 
- 🚧 This section under construction 🚧
+ &#128679; This section under construction &#128679;
 
 Video, Game, Tabletop RPG, Card...
 

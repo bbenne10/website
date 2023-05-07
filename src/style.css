@@ -86,7 +86,7 @@ img:hover {
 a {
   color: var(--blue);
   text-decoration: none;
-  border-bottom: 1px double var(--blue);
+  border-bottom: 1px dotted var(--blue);
 }
 
 a:visited {
@@ -100,12 +100,12 @@ footer {
     padding-top: 1rem;
 }
 
-/*
-h1, h2, h3, h4, h5, h6 {
-  color: #8FBCBB;
-  border-bottom: 2px solid #1b1e24;
-  margin: 0;
+.icon {
+    font-family: "Twemoji Mozilla",
+               "Apple Color Emoji",
+               "Segoe UI Emoji",
+               "Segoe UI Symbol",
+               "Noto Color Emoji",
+               "EmojiOne Color",
+               "Android Emoji";
 }
-
-
-*/
