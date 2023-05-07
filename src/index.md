@@ -31,16 +31,6 @@ It's called [earl grey][] and I think it's really neat.
 
 Thanks, [June][]!
 
-## Where else can we talk?
-
-In addition to those below,
-you can also email me at Bryan (dot) Bennett (at) protonmail (dot) com.
-
-* [Personal code host](https://code.bryan-bennett.com)
-* [Github](https://github.com/bbenne10)
-* [Mastodon](https://tilde.zone/@BryanBennett)
-* [Facebook (if you care)](https://facebook.com/bryan.a.bennett)
-
 [GTRI]: https://gtri.gatech.edu/laboratories/cybersecurity-information-protection-and-hardware-evaluation-research
 [earl grey]: https://earl-grey.halt.wtf/
 [June]: https://halt.wtf
