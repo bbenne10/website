@@ -57,14 +57,15 @@ the "rawness" of it doesn't strike a chord for me (no pun intended).
 But the combination of emotion with strong theory foundations? 
 I love that.
 
-Artists I particularly I love (ordered as they come to me while writing):
+Artists I particularly I love:
 
 * Cynic's brand of progressive metal-jazz
 * Coltrane's late-career output
 * [Emancipator][], [general fuzz][], [burial][]
 * Tyler Childers, Sturgill Simpson, Jason Isbell
 * [Allegaeon][], [Slugdge][], [Ulcerate][]
-* [Eidola][], [Royal Coda][], 
+* [Eidola][], [Royal Coda][],
+* [Coheed and Cambria][]
 
 [Emancipator]: https://emancipator.bandcamp.com/
 [general fuzz]: https://generalfuzz.net/
@@ -74,6 +75,7 @@ Artists I particularly I love (ordered as they come to me while writing):
 [Ulcerate]: https://ulcerate.bandcamp.com
 [Eidola]: https://eidolamusic.bandcamp.com/
 [Royal Coda]: https://royalcoda.bandcamp.com
+[Coheed and Cambria]: https://coheedandcambria.com
 
 
 ## &#9978; Hiking & Camping
