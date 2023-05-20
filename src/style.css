@@ -2,7 +2,6 @@
   --foreground: #605A52;
   --background: #FCFBF9;
   --background-alt: #F7F3EE;
-  --background-dark: #ebe4d7;
   --purple: #83577D;
   --blue: #556995;
   --teal: #477A7B;
@@ -99,7 +98,7 @@ a:visited {
 }
 
 pre {
-    background-color: var(--background-dark);
+    background-color: var(--background-alt);
     color: var(--foreground);
     border-radius: 1rem;
 }
