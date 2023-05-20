@@ -2,6 +2,7 @@
   --foreground: #605A52;
   --background: #FCFBF9;
   --background-alt: #F7F3EE;
+  --background-dark: #ebe4d7;
   --purple: #83577D;
   --blue: #556995;
   --teal: #477A7B;
@@ -10,22 +11,20 @@
   --red: #8F5652;
 }
 
-body {
+html {
   display: flex;
   justify-content: center;
-  flex-direction: column;
+}
+
+body {
   background-color: var(--background);
   margin: 2rem;
   color: var(--foreground);
   font-family: "Goudy Old Style", serif;
   font-size: 1.2rem;
   line-height: 1.8rem;
-}
-
-@media only screen and (max-width: 600px) {
-  body {
-    margin: 0;
-  }
+  max-width: 40rem;
+  justify-content: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -37,10 +36,6 @@ h1, h2, h3, h4, h5, h6 {
 header {
   display: flex;
   border: none;
-}
-
-header {
-  display: flex-item;
   justify-content: space-between;
 }
 
@@ -63,19 +58,16 @@ nav > ul > li:hover a {
   transition-duration: 0.5s;
 }
 
-.linklist > ul, nav > ul {
+nav > ul {
   display: flex;
   width: 100%;
   justify-content: space-evenly;
   margin: 0;
   padding: 0;
-}
-
-nav > ul {
   list-style-type: none;
 }
 
-.linklist > ul > li, nav > ul > li {
+nav > ul > li {
   text-transform: uppercase;
   padding: 1rem;
 }
@@ -106,17 +98,27 @@ a:visited {
   border-bottom: 1px double var(--purple);
 }
 
+pre {
+    background-color: var(--background-dark);
+    color: var(--foreground);
+    border-radius: 1rem;
+}
+
+code {
+    display: inline-block;
+    margin: 0 auto;
+    width: calc(100% - 2rem);
+    padding: 1rem;
+}
+
 footer {
     border-top: 1px double var(--background-alt);
     padding-top: 1rem;
 }
 
-.icon {
-    font-family: "Twemoji Mozilla",
-               "Apple Color Emoji",
-               "Segoe UI Emoji",
-               "Segoe UI Symbol",
-               "Noto Color Emoji",
-               "EmojiOne Color",
-               "Android Emoji";
+@media only screen and (max-width: 600px) {
+  body {
+    margin: 0;
+    max-width: 100%;
+  }
 }
